@@ -1,0 +1,3 @@
+{"name":"Number Of Albums","type":"Number","direction":"Descendant","selected":"false"}
+{"name":"Genre","type":"Text","direction":"Ascendant","selected":"true"}
+{"name":"Best Song","type":"Text","direction":"Descendant","selected":"false"}

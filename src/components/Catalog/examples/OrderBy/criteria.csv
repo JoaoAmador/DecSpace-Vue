@@ -1,0 +1,4 @@
+name;type;direction;selected
+Number Of Albums;Number;Descendant;false
+Genre;Text;Ascendant;true
+Best Song;Text;Descendant;false
